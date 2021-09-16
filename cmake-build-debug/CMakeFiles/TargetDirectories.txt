@@ -1,0 +1,3 @@
+C:/Users/bcz/CLionProjects/WorkingWithPointers/cmake-build-debug/CMakeFiles/WorkingWithPointers.dir
+C:/Users/bcz/CLionProjects/WorkingWithPointers/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/bcz/CLionProjects/WorkingWithPointers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
